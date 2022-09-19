@@ -1,7 +1,7 @@
 # Study-Buddy
 
-I used this tutorial for setting up flutter. It was pretty confusing downloading this, not sure if I
-am still missing anything but I will edit this README as I continue with this project. 
+This repository is set up for a project proposal for a desktop application for a personal planner and study buddy application. 
+I used this tutorial for setting up flutter. 
 https://codelabs.developers.google.com/codelabs/flutter-boring-to-beautiful#0
 
 ## How to run
